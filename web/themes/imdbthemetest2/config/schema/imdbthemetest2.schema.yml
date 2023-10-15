@@ -1,0 +1,8 @@
+# Schema for the configuration files of the imdbthemetest2 theme.
+imdbthemetest2.settings:
+  type: theme_settings
+  label: 'imdbthemetest2 settings'
+  mapping:
+    example:
+      type: string
+      label: Example

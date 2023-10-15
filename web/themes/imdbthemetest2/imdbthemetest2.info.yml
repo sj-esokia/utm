@@ -1,0 +1,18 @@
+name: imdbthemetest2
+type: theme
+base theme: stable9
+description: A flexible theme with a responsive, mobile-first layout.
+package: Custom
+core_version_requirement: ^10
+libraries:
+  - imdbthemetest2/global
+regions:
+  primary_menu: 'Primary menu'
+  page_top: 'Page top'
+  page_bottom: 'Page bottom'
+  featured: 'Featured'
+  breadcrumb: 'Breadcrumb'
+  content: 'Content'
+  content2: 'content2'
+  sidebar: 'Sidebar right'
+  footer: 'Footer'

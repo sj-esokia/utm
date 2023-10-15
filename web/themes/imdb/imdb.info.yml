@@ -1,0 +1,19 @@
+name: imdb
+type: theme
+base theme: olivero
+description: a theme for imdb website clone
+package: custom theme
+core_version_requirement: ^10
+libraries:
+  - imdb/global
+regions:
+  header: 'Header'
+  primary_menu: 'Primary menu'
+  page_top: 'Page top'
+  page_bottom: 'Page bottom'
+  featured: 'Featured'
+  breadcrumb: 'Breadcrumb'
+  content: 'Content'
+  sidebar_first: 'Sidebar first'
+  sidebar_second: 'Sidebar second'
+  footer: 'Footer'

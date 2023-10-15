@@ -1,0 +1,8 @@
+# Schema for the configuration files of the imdb theme.
+imdb.settings:
+  type: theme_settings
+  label: 'imdb settings'
+  mapping:
+    example:
+      type: string
+      label: Example
